@@ -1,0 +1,32 @@
+Colour - colourCode
+
+Blue - 1
+Red - 2
+Yellow - 3
+Orange - 4
+Green - 5
+Violet - 6
+Black - 7
+White - 8
+
+
+Music files
+
+1. bootup (lng < 5000)
+2. positive_feedback (lng < 2000)
+3. negative_feedback (lng < 2000)
+4. en_bl, en_rd, en_yl, en_or, en_gr, en_vl, en_bk, en_wh   (n=8) (lng < 2000)
+5. fr_bl, fr_rd, fr_yl, fr_or, fr_gr, fr_vl, fr_bk, fr_wh   (n=8) (lng < 2000)
+6. gr_bl, gr_rd, gr_yl, gr_or, gr_gr, gr_vl, gr_bk, gr_wh   (n=8) (lng < 2000)
+7. en_english, fr_french, gr_german (n=3) (lng < 2000)
+8. mode1_start, mode2_start ........ mode5_start (lng < 5000) (n=5)
+9. ready_ques (READY??? LET'S GO)
+10. play_mode_song (lng < 15000)
+11. game_over
+12. your_score_is
+13. one, two ........ fifteen (n=15)
+14. very_high
+15. sky, apple, banana, fire, leaf, violet, crow, snow (n=8x) (where x is between 3-5 depending on how many objects we want to add)
+
+
+TOTAL - 
